@@ -1,0 +1,178 @@
+/* Estilos para el contenedor principal */
+.min-h-screen {
+    min-height: 100vh; /* Altura mínima de la pantalla */
+  }
+  
+  .flex {
+    display: flex; /* Usa flexbox para alinear elementos */
+  }
+  
+  .items-center {
+    align-items: center; /* Centra verticalmente los elementos */
+  }
+  
+  .justify-center {
+    justify-content: center; /* Centra horizontalmente los elementos */
+  }
+  
+  .bg-gray-100 {
+    background-color: #f7fafc; /* Color de fondo gris claro */
+  }
+  
+  /* Estilos para el contenedor del formulario */
+  .bg-white {
+    background-color: #fff; /* Color de fondo blanco */
+  }
+  
+  .shadow-md {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra */
+  }
+  
+  .rounded {
+    border-radius: 0.375rem; /* Bordes redondeados */
+  }
+  
+  .px-8 {
+    padding-left: 2rem; /* Padding horizontal */
+    padding-right: 2rem;
+  }
+  
+  .pt-6 {
+    padding-top: 1.5rem; /* Padding superior */
+  }
+  
+  .pb-8 {
+    padding-bottom: 2rem; /* Padding inferior */
+  }
+  
+  .mb-4 {
+    margin-bottom: 1rem; /* Margen inferior */
+  }
+  
+  .max-w-md {
+    max-width: 28rem; /* Ancho máximo */
+  }
+  
+  .w-full {
+    width: 100%; /* Ancho completo */
+  }
+  
+  /* Estilos para el título del formulario */
+  .text-2xl {
+    font-size: 1.5rem; /* Tamaño de fuente grande */
+  }
+  
+  .font-bold {
+    font-weight: 700; /* Texto en negrita */
+  }
+  
+  /* Estilos para el formulario */
+  .text-center {
+    text-align: center; /* Alinea el texto al centro */
+  }
+  
+  /* Estilos para las etiquetas de los campos */
+  .text-gray-700 {
+    color: #4a5568; /* Color de texto gris oscuro */
+  }
+  
+  .text-sm {
+    font-size: 0.875rem; /* Tamaño de fuente pequeño */
+  }
+  
+  /* Estilos para los campos de texto */
+  .appearance-none {
+    appearance: none; /* Elimina los estilos predeterminados */
+  }
+  
+  .border {
+    border-width: 1px; /* Grosor del borde */
+  }
+  
+  .py-2 {
+    padding-top: 0.5rem; /* Padding vertical */
+    padding-bottom: 0.5rem;
+  }
+  
+  .px-3 {
+    padding-left: 0.75rem; /* Padding horizontal */
+    padding-right: 0.75rem;
+  }
+  
+  .leading-tight {
+    line-height: 1.25; /* Espaciado entre líneas ajustado */
+  }
+  
+  .focus\:outline-none:focus {
+    outline: none; /* Quita el contorno al hacer foco */
+  }
+  
+  .focus\:shadow-outline:focus {
+    box-shadow: 0 0 0 3px rgba(66, 153, 225, 0.5); /* Efecto de foco */
+  }
+  
+  /* Estilos para el mensaje de error */
+  .text-red-500 {
+    color: #e53e3e; /* Color de texto rojo */
+  }
+  
+  .text-xs {
+    font-size: 0.75rem; /* Tamaño de fuente extra pequeño */
+  }
+  
+  .italic {
+    font-style: italic; /* Texto en cursiva */
+  }
+  
+  /* Estilos para el botón */
+  .bg-blue-500 {
+    background-color: #4299e1; /* Color de fondo azul */
+  }
+  
+  .hover\:bg-blue-700:hover {
+    background-color: #2b6cb0; /* Color de fondo azul más oscuro al hacer hover */
+  }
+  
+  .text-white {
+    color: #fff; /* Color de texto blanco */
+  }
+  
+  .font-bold {
+    font-weight: 700; /* Texto en negrita */
+  }
+  
+  .py-2 {
+    padding-top: 0.5rem; /* Padding vertical */
+    padding-bottom: 0.5rem;
+  }
+  
+  .px-4 {
+    padding-left: 1rem; /* Padding horizontal */
+    padding-right: 1rem;
+  }
+  
+  .rounded {
+    border-radius: 0.25rem; /* Bordes redondeados */
+  }
+  
+  .focus\:outline-none:focus {
+    outline: none; /* Quita el contorno al hacer foco */
+  }
+  
+  .focus\:shadow-outline:focus {
+    box-shadow: 0 0 0 3px rgba(66, 153, 225, 0.5); /* Efecto de foco */
+  }
+  
+  /* Estilos para el texto inferior */
+  .text-gray-500 {
+    color: #718096; /* Color de texto gris */
+  }
+  
+  .text-xs {
+    font-size: 0.75rem; /* Tamaño de fuente extra pequeño */
+  }
+  
+  .mt-4 {
+    margin-top: 1rem; /* Margen superior */
+  }
+  
